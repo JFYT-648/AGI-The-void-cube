@@ -41,7 +41,7 @@ Epistemic Status: This is a conceptual scaffold (Thought Experiment), not an eng
 
 ## 关键发现
 
-MIT 2026年6月论文《Vacuum Fluctuation-Induced State Switching in Degenerate Optical Parametric Oscillators》证明量子真空涨落可通过 OPO 谐振腔放大为宏观状态切换。这与文档中"量子真空涨落经谐振腔放大成为非理性选择种子"在物理机制层面高度吻合。(备注:真空涨落不严格=价值)
+MIT 2026年6月论文《Vacuum Fluctuation-Induced State Switching in Degenerate Optical Parametric Oscillators》证明量子真空涨落可通过 OPO 谐振腔放大为宏观状态切换。这与文档中"量子真空涨落经谐振腔放大成为非理性选择种子"在物理机制层面高度吻合。(备注:真空涨落不严格=价值,随机性≠意义)
 
 **差距**：MIT 论文实现的是概率比特（p-bit），文档指向的是价值决断。
 
