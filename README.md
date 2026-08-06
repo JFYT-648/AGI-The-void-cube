@@ -2,7 +2,7 @@
 
 > 一个关于 AGI 价值锚定硬件隐喻的概念探针。
 
-- **生成时间**：2026年8月7日
+- **时间**：2026年8月7日
 - **来源**：清醒下的 AIWS 状态整理[人话:梦见后整理的]
 - **状态**：概念占位符，非工程蓝图
 - **文档完整版**：
@@ -13,6 +13,8 @@
 ---
 
 ## 声明
+
+> **For English readers**: The original documentation in this repository is in Chinese. An English summary and discussion are available on LessWrong. Machine translation is recommended for the files below.
 
 Epistemic Status: This is a conceptual scaffold (Thought Experiment), not an engineering blueprint. The author is an undergraduate student. While the referenced papers (e.g., arXiv:2606.28178) are real and the photonic interconnect data (Lightmatter/TSMC) is accurate, the "Void Cube" mechanism involves Schwinger-effect energy scales currently >10 orders of magnitude beyond lab capability. This repo is a pollination space between quantum optics and AI alignment.
 
