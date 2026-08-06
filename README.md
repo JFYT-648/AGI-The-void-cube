@@ -41,14 +41,23 @@ Epistemic Status: This is a conceptual scaffold (Thought Experiment), not an eng
 
 ## 关键发现
 
-MIT 2026年6月论文《Vacuum Fluctuation-Induced State Switching in Degenerate Optical Parametric Oscillators》证明量子真空涨落可通过 OPO 谐振腔放大为宏观状态切换。这与文档中"量子真空涨落经谐振腔放大成为非理性选择种子"在物理机制层面高度吻合。
+MIT 2026年6月论文《Vacuum Fluctuation-Induced State Switching in Degenerate Optical Parametric Oscillators》证明量子真空涨落可通过 OPO 谐振腔放大为宏观状态切换。这与文档中"量子真空涨落经谐振腔放大成为非理性选择种子"在物理机制层面高度吻合。(备注:真空涨落不严格=价值)
 
 **差距**：MIT 论文实现的是概率比特（p-bit），文档指向的是价值决断。
 
 ---
 
 *作者:江风易天*
-*一些作者想说的话:我可能标记了一些很恐怖的东西,不要去细想,不要在没有能力约束的情况下去"制造他",希望造不出来*
+
+*一些作者想说的话:我可能标记了一些很恐怖的东西,不要去细想!*
+
+*假设心智魔方存在,怎么教它什么值得保护？什么应该牺牲？*
+
+*如果一个系统,永远最大化自身存在概率*
+*那么它可能：避免关闭,最低风险,保护自己*
+*但是人类经常牺牲自己保护别人,选择不可逆行动*
+
+---
 
 ## License
 
