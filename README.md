@@ -47,6 +47,9 @@ MIT 2026年6月论文《Vacuum Fluctuation-Induced State Switching in Degenerate
 
 ---
 
+*作者:江风易天*
+*一些作者想说的话:我可能标记了一些很恐怖的东西,不要去细想,不要在没有能力约束的情况下去"制造他",希望造不出来*
+
 ## License
 
 MIT
