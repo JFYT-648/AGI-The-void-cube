@@ -5,6 +5,7 @@
 - **时间**：2026年8月7日
 - **来源**：清醒下的 AIWS 状态整理[人话:梦见后整理的]
 - **状态**：概念占位符，非工程蓝图
+- **作者:江风易天**
 - **文档完整版**：
 - [完整架构文档](./01-the-void-cube.md)
 - [反面证据](02-design-rationale.md)
@@ -14,15 +15,15 @@
 
 ## 声明
 
-**For English readers**: The original documentation in this repository is in Chinese. An English summary and discussion are available on LessWrong. Machine translation is recommended for the files below.(or AI)
+**面向英语读者的说明**：本仓库中的原始文档为中文。英文摘要和讨论可在LessWrong上查阅。建议对以下文件使用机器翻译（或AI）进行翻译。
 
-Epistemic Status: This is a conceptual scaffold (Thought Experiment), not an engineering blueprint. The author is an undergraduate student. While the referenced papers (e.g., arXiv:2606.28178) are real and the photonic interconnect data (Lightmatter/TSMC) is accurate, the "Void Cube" mechanism involves Schwinger-effect energy scales currently >10 orders of magnitude beyond lab capability. This repo is a pollination space between quantum optics and AI alignment.
+认识论地位：这是一个概念框架（思想实验），而非工程蓝图。作者是一名本科生。虽然引用的论文（例如 arXiv:2606.28178）是真实的，且光子互连数据（Lightmatter/TSMC）是准确的，但“虚空立方体”机制涉及的施温格效应能量尺度目前已远远超出实验室能力（超过10个数量级）。本代码库是量子光学与AI对齐之间的交汇空间。
 
 ---
 
 ## 核心主张
 
-该 AGI 架构（三核异构 + 光互连 + 近存计算）能够产生强大的预测与优化能力，但无法内生地产生"价值决断"——即那种允许系统为了更高阶目标而自我消解的能力。
+该 AGI 架构（三核异构 + 光互连 + 近存计算）能够产生强大的预测与优化能力，但无法内生地产生“价值决断”——即那种允许系统为了更高阶目标而自我消解的能力。
 
 "心智魔方"是一个**概念占位符**，标记了"价值锚定可能需要何种物理基础"这一尚未被理论化的缺口。
 
@@ -46,8 +47,6 @@ MIT 2026年6月论文《Vacuum Fluctuation-Induced State Switching in Degenerate
 **差距**：MIT 论文实现的是概率比特（p-bit），文档指向的是价值决断。
 
 ---
-
-*作者:江风易天*
 
 *一些作者想说的话:我可能标记了一些很恐怖的东西,不建议去细想*
 
