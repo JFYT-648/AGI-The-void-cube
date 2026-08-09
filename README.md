@@ -58,6 +58,10 @@ MIT 2026年6月论文《Vacuum Fluctuation-Induced State Switching in Degenerate
 
 ---
 
+如果你想参加讨论
+欢迎来https://github.com/JFYT-648/AGI-The-void-cube/discussions/1
+
+
 ## License
 
 MIT
