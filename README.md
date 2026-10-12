@@ -10,7 +10,7 @@
 - [完整架构文档](./01-the-void-cube.md)
 - [反面证据](02-design-rationale.md)
 - [文献检索记录](03-references.md)
-- [联想到的论文](04-The%Pain%Axis.md)
+- [联想到的论文](<04-The Pain Axis.md>)
 
 ---
 
